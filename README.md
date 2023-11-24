@@ -36,28 +36,22 @@ Enjoy the pizza-making adventure, and thank you for being part of Pizza Maker's 
 ### Screenshots:
 
 <p align="center">
-	<img src="resources/screenshots/2019-06-02_114635.png" width="100">
+	<img src="resources/img/2019-06-02_114635.png" width="100">
     <h6 align="center">Icon of the game.</h6>
 </p>
 
 <p align="center">
-	<img src="resources/screenshots/home.jpg" width="200">
+	<img src="resources/img/home.jpg" width="200">
 </p>
 
 <p align="center">
-	<img src="resources/screenshots/ex1.jpg" width="200">
+	<img src="resources/img/ex1.jpg" width="200">
+	<img src="resources/img/ex2.jpg" width="200">
 </p>
 
 <p align="center">
-	<img src="resources/screenshots/store.jpg" width="200">
-</p>
-
-<p align="center">
-	<img src="resources/screenshots/ex2.jpg" width="200">
-</p>
-
-<p align="center">
-	<img src="resources/screenshots/store2.jpg" width="200">
+	<img src="resources/img/store.jpg" width="200">
+	<img src="resources/img/store2.jpg" width="200">
 </p>
 
 ### Credits:
